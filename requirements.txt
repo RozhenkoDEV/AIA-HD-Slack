@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlalchemy
+psycopg2-binary
+python-dotenv
+slack_sdk
+pydantic
+aiofiles
+jinja2
